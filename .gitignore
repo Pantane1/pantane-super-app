@@ -1,0 +1,18 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+pubspec.lock
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
