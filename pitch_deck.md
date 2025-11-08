@@ -1,24 +1,14 @@
-- AI, offline access, local languages.
+# Pantane Super App Pitch Deck
 
-## Slide 4: Market Opportunity
-- 50M+ entrepreneurs in Africa.
-- Growing fintech market ($10B+).
+## Slide 1: Title
+- Pantane Super App
+- Tagline: One App. Every Hustle. African Power.
+- Your Name/Company
 
-## Slide 5: Product Demo
-- Screenshots/Wireframes (use from wireframes.txt).
+## Slide 2: Problem
+- African entrepreneurs juggle multiple apps for payments, management, learning.
+- Fragmented tools hinder growth.
 
-## Slide 6: Business Model
-- Freemium: Basic free, Pro paid ($5/month).
-- Fees: 1% on transactions.
+## Slide 3: Solution
+- One unified app: Biz, Market, Pay, Learn.
 
-## Slide 7: Traction & Roadmap
-- MVP ready; Launch Q1 2024.
-
-## Slide 8: Team
-- Founders: [Your details].
-
-## Slide 9: Ask
-- Seeking $500K investment for development.
-
-## Slide 10: Contact
-- Email, Website.
